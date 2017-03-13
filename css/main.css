@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('playlist_caps-webfont.woff2');
+  
+}
+h1 {
+  color: #932226;
+  font-size: 4.5em;
+  font-family: playlist;
+  background: ivory;
+  margin: 0 auto; 
+  padding: 40px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #402220;
+  background: slategray;
+  padding: 110px;
+  margin: 0 auto;
+  background-image: url("https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 2.5em;
+  font-family: playlist;
+}
+
+h3 {
+  text-align: center;
+  color: lightgreen;
+  background: slategray;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+img{
+  display:block;
+  margin:auto;
+  border: soild ivory 6px;
+  background:linear-gradiant: ivory; 
+}
+
+.top{ 
+  background: ivory;
+  border: solid #d7d9d8 3px;
+}
+
+.summary {
+  text-align: center;
+  color: #536e7f
+}
+
+a:link {
+  color: #85a78c;
+  text-decoration: none;
+}
+
+.two{
+  column-count: 2;
+  column-gap: 30px;
+  margin: 15px 20px 30px 20px;
+}
+
+
