@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'MyWebFont';
-  src: url('playlist_caps-webfont.woff2');
+  font-family: 'playlist_caps';
+  src: url('../assets/fonts/playlist_caps-webfont.woff');
   
 }
 h1 {
   color: #932226;
   font-size: 4.5em;
-  font-family: playlist;
+  font-family: playlist_caps;
   background: ivory;
   margin: 0 auto; 
   padding: 40px;
