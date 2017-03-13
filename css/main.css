@@ -63,7 +63,8 @@ a:link {
 }
 
 .compass {
-  max-width: 20%;
-  margin: 0 auto; 
+  max-width: 5%;
+  margin: 0 auto;
+  padding: 0;
  
 }
