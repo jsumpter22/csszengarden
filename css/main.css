@@ -82,3 +82,9 @@ a:link {
 li {
   list-style: none;
 }
+
+.zen-resources {
+  position: relative;
+  top: 20px;
+  left: 80px;
+}
