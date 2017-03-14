@@ -46,7 +46,7 @@ img {
 
 .top{ 
   background: ivory;
-  border: solid #d7d9d8 3px;
+  border-bottom: solid #d7d9d8 3px;
 }
 
 .summary {
