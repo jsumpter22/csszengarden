@@ -30,8 +30,8 @@ h2 {
 h3 {
   text-align: center;
   color: #85a78c;
-  padding: 100px;
-  margin: 100px;
+  padding: 10px;
+  margin: 0 auto;
   font-family: playlist_caps;
   font-size: 2em;
 }
@@ -87,4 +87,6 @@ li {
   background-repeat: no-repeat;
   background-position: center;
   height: 400px;
+  color: white;
+  margin: 45px;
 }
