@@ -30,7 +30,6 @@ h2 {
 h3 {
   text-align: center;
   color: #85a78c;
-  background: gray;
   padding: 20px;
   margin: 0 auto;
   font-family: playlist_caps;
@@ -87,5 +86,5 @@ li {
   background-image: url("../assets/tent.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  height: 200px;
+  height: 400px;
 }
