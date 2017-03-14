@@ -89,5 +89,6 @@ li {
   color: white;
   text-outline:10px 10px black;
   padding-top:250px;
+  display: inline-block;
 
 }
