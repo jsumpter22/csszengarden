@@ -87,7 +87,8 @@ li {
   background-repeat: no-repeat;
   background-position: center;
   height: 400px;
-  color: #402220;
+  color: white;
+  text-outline:2px 2px black;
   padding-top:250px;
 
 }
