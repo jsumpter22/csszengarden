@@ -78,6 +78,6 @@ a:link {
 }
 
 .design-selection {
-  float: left;
-  padding: 15px;
+  padding: 50px;
+  background: gray;
 }
