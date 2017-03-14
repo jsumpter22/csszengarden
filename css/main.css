@@ -74,4 +74,5 @@ a:link {
 .three {
   float: right;
   margin: 0 0 10px 10px;
+  clear:left;
 }
