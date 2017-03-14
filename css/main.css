@@ -58,8 +58,11 @@ a:link {
   text-decoration: none;
 }
 
-.right{
-  float: right;
+.left{
+  float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
   
 }
 
