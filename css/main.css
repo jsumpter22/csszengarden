@@ -66,7 +66,7 @@ a:link {
 }
 
 .compass {
-  max-width: 5%;
+  max-width: 10%;
   margin: 0 auto;
   padding: 0;
   border: 0;
@@ -79,6 +79,6 @@ a:link {
   clear:left;
 }
 
-.footer {
+li {
   list-style: none;
 }
