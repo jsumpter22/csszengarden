@@ -88,3 +88,7 @@ li {
 .benefits {
   background-color:gray;
 }
+
+section {
+  columns: 2;
+}
