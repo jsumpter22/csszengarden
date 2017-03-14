@@ -28,13 +28,14 @@ h2 {
 
 h3 {
   text-align: center;
-  color: lightgreen;
+  color: #85a78c;
   background: slategray;
   padding: 20px;
   margin: 0 auto;
+  font-family: playlist_caps;
 }
 
-img{
+img {
   display:block;
   margin:auto;
   border: soild ivory 6px;
