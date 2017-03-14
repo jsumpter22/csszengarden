@@ -92,4 +92,5 @@ li {
 section {
   column-count: 2;
   column-gap: 40px;
+  column-width: 40px;
 }
