@@ -84,5 +84,8 @@ li {
 }
 
 .enlightenment {
-  background-image: url("../assets/tent.jpg")
+  background-image: url("../assets/tent.jpg");
+  background-repeat: no-repeat;
+  background-position: center; 
+  padding:100px;
 }
