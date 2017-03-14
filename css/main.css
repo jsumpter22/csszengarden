@@ -58,14 +58,6 @@ a:link {
   text-decoration: none;
 }
 
-.left{
-  float: left;
-    max-width: 30%px;
-    margin: 0;
-    padding: 1em;
-  
-}
-
 .compass {
   max-width: 10%;
   margin: 0 auto;
