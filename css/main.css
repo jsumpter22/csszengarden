@@ -76,3 +76,8 @@ a:link {
   margin: 0 0 10px 10px;
   clear:left;
 }
+
+.design-selection {
+  float: left;
+  padding: 15px;
+}
