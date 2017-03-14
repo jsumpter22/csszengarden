@@ -10,6 +10,7 @@ h1 {
   background: ivory;
   margin: 0 auto; 
   padding: 40px;
+  padding-bottom: 0;
   text-align: center;
 }
 
@@ -79,6 +80,5 @@ a:link {
 
 .design-selection {
   padding: 50px;
-  background: gray;
-  float: top;
+  background: gray
 }
