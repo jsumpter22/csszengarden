@@ -85,8 +85,9 @@ li {
 .enlightenment {
   background-image: url("../assets/tent.jpg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center, center;
   height: 400px;
   color: white;
-  margin-top: 100px;
+  margin-top: -100px;
+
 }
