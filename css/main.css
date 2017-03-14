@@ -30,7 +30,7 @@ h2 {
 h3 {
   text-align: center;
   color: #85a78c;
-  background: slategray;
+  background-image: url("../assets/tent.jpg");
   padding: 20px;
   margin: 0 auto;
   font-family: playlist_caps;
