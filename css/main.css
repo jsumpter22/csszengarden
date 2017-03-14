@@ -80,4 +80,5 @@ a:link {
 .design-selection {
   padding: 50px;
   background: gray;
+  float: top-right;
 }
