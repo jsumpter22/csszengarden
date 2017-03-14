@@ -62,7 +62,7 @@ a:link {
 .two{
   column-count: 2;
   column-gap: 30px;
-  margin: 15px 20px 30px 20px;
+  margin: 25px 20px 30px 20px;
 }
 
 .compass {
