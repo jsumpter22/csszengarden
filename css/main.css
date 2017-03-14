@@ -58,10 +58,9 @@ a:link {
   text-decoration: none;
 }
 
-.two{
-  column-count: 2;
-  column-gap: 35px;
-  margin: 20px 20px 20px 20px;
+.right{
+  float: right;
+  
 }
 
 .compass {
